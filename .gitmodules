@@ -1,0 +1,21 @@
+[submodule "vendor/sdk-javascript"]
+	path = vendor/sdk-javascript
+	url = https://github.com/braintrustdata/braintrust-sdk-javascript.git
+[submodule "vendor/sdk-python"]
+	path = vendor/sdk-python
+	url = https://github.com/braintrustdata/braintrust-sdk-python.git
+[submodule "vendor/autoevals"]
+	path = vendor/autoevals
+	url = https://github.com/braintrustdata/autoevals.git
+[submodule "vendor/proxy"]
+	path = vendor/proxy
+	url = https://github.com/braintrustdata/braintrust-proxy.git
+[submodule "vendor/openapi"]
+	path = vendor/openapi
+	url = https://github.com/braintrustdata/braintrust-openapi.git
+[submodule "vendor/lingua"]
+	path = vendor/lingua
+	url = https://github.com/braintrustdata/lingua.git
+[submodule "vendor/cookbook"]
+	path = vendor/cookbook
+	url = https://github.com/braintrustdata/braintrust-cookbook.git
